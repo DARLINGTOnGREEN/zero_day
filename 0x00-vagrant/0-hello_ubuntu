@@ -1,1 +1,1 @@
- echo "in linux the uname without an option print the files"
+in ["linux"] the uname without an option print the files
