@@ -1,1 +1,2 @@
-it prints just the kernel name in "linux"
+In linux the uname without an option prints the system information
+
