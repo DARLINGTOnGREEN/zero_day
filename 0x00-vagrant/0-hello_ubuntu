@@ -1,2 +1,1 @@
-In linux the uname without an option prints the system information
-
+ echo "in linux the uname without an option print the files"
